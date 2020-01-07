@@ -22,9 +22,9 @@
     		"assets": {
      			 "host01": [
         	{
-          		"file": "./sapienza/*",
+          		"file": "sapienza/*",
           		"target": "/root/sapienza"
-        	}]    
+        		}]    
     		}
   	},
 	"environment": {
