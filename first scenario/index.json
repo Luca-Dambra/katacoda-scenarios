@@ -22,8 +22,8 @@
     		"assets": {
      			 "host01": [
         	{
-          		"file": "sapienza/*",
-          		"target": "/root/sapienza"
+          		"file": "sklearn/*",
+          		"target": "/root/sklearn/"
         		}]    
     		}
   	},
