@@ -6,11 +6,11 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1: Set-up",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2: ls command",
         "text": "step2.md"
       },
       {
