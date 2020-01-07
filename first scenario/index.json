@@ -21,10 +21,10 @@
       "text": "finish.md"
     },
     "assets": {
-      "client": [
+      "host01": [
         {
-          "file": "sapienza/*",
-          "target": "/root/sapienza/"
+          "file": "*",
+          "target": "/root/"
         }
       ]    
     }
