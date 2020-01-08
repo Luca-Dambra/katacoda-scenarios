@@ -1,4 +1,4 @@
-### A) Create a folder called "myfolder" in the current directory.
+#### A) Create a folder called "myfolder" in the current directory.
 
 Hint: Use the **mkdir** command passing as argument the directory to create
 
@@ -6,24 +6,24 @@ Hint: Use the **mkdir** command passing as argument the directory to create
 You should see the new folder as the first output of the command **ls -t**
 
 
-### B) Create a copy of the file "naive_bayes.py" inside "myfolder", and name it "naive_bayes_copy.py".
+#### B) Create a copy of the file "naive_bayes.py" inside "myfolder", and name it "naive_bayes_copy.py".
 
 Hint: Use the **cp** command specifying:
-	- path of the file to copy
-	- path and name of the new file
+- path of the file to copy
+- path and name of the new file
 
 
-### C) Move the file called "multiclass.py" inside the directory "myfolder".
+#### C) Move the file called "multiclass.py" inside the directory "myfolder".
 
 Hint: Use the **mv** command specifying:
-	- path of the file to move
-	- path you want to move the file in
+- path of the file to move
+- path you want to move the file in
 
-### D) Check that the directory "myfolder" contains the required files.
+#### D) Check that the directory "myfolder" contains the required files.
 
 Hint: Use the **ls** command
 
-### E) Remove the directory "myfolder".
+#### E) Remove the directory "myfolder".
 
 This task can be performed in two differnt ways:
 

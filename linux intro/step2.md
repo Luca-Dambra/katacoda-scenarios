@@ -3,11 +3,11 @@
 Hint: Use the command **ls**
 
 Try out few arguments of the *ls* command:
-	- Use **-F** to append an indicator of the file type
-	- Use **-l** to output detailed information on the directory
-	- Use **-S** to sort the results by name
-	- Use **-t** to sort the results by modification
-	- Use **-R** to display a recursive listing
+- Use **-F** to append an indicator of the file type
+- Use **-l** to output detailed information on the directory
+- Use **-S** to sort the results by name
+- Use **-t** to sort the results by modification
+- Use **-R** to display a recursive listing
 
 Notice that you can combine two or more argument.
 

@@ -1,28 +1,28 @@
-### A)
+#### A)
 
 ```
 mkdir myfolder
 ```{{execute}}
 
-### B)
+#### B)
 
 ```
 cp naive_bayes.py myfolder/naive_bayes_copy.py
 ```{{execute}}
 
-### C)
+#### C)
 
 ```
 mv multiclass.py myfolder/
 ```{{execute}}
 
-### D)
+#### D)
 
 ```
 ls myfolder/
 ```{{execute}}
 
-### E)
+#### E)
 
 1) First way:
 ```
