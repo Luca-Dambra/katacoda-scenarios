@@ -1,8 +1,8 @@
 {
   "title": "Tech Talk 1: Introduction to linux",
-  "description": "This course contains some basic notions about linux OS and presents the most common bash commands",
+  "description": "This course contains presents the most common bash commands",
   "difficulty": "Beginner",
-  "time": "10 minutes",
+  "time": "15-20 minutes",
   "details": {
     "steps": [
       {
@@ -16,17 +16,17 @@
 		"answer": "step2-answer.md"
       },
       {
-        "title": "Step 3: Operations on files and folder",
+        "title": "Step 3: operations on files and folder",
         "text": "step3.md",
 		"answer": "step3-answer.md"
       },
       {
-        "title": "Step 4",
+        "title": "Step 4: cat command",
         "text": "step4.md",
 		"answer": "step4-answer.md"
       },
       {
-        "title": "Step 5",
+        "title": "Step 5: permissions and chmod command",
         "text": "step5.md",
 		"answer": "step5-answer.md"
       }

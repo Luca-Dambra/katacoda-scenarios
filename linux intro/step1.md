@@ -8,7 +8,7 @@ pip install sklearn
 
 The download may take few minutes depending on the internet connection.
 
-### A) Find inside tha folder "/usr" the path to the folder named "sklearn".
+### A) Find inside the folder "/usr" the path to the folder named "sklearn".
 
 Hint: use the **find** command specifing:
 - the directory of interest
