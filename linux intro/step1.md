@@ -1,35 +1,29 @@
-### A) Download and install the python's library "sklearn" using pip. 
 
-The download can take few minutes depending on the internet connection.
+In this Demo we will work with files contained in the well-known python library "sklearn". Thus, the first thing to do, is to download and install the library.
+We perform this step using the Python Package Index (pip):
 
 ```
 pip install sklearn
 ```{{execute}}
 
-### B) Find inside tha folder "/usr" the path to the folder named "sklearn".
+The download may take few minutes depending on the internet connection.
+
+### A) Find inside tha folder "/usr" the path to the folder named "sklearn".
 
 Hint: use the **find** command specifing:
 - the directory of interest
-- the argument **-name** as argument (means that it will search files and folder a specific name)
-- the name of folder you are looking for
+- the argument **-name** (means that it will search files and folder with a specific name)
+- the name of file or folder you are looking for
 
-```
-find /usr -name sklearn
-```{{execute}}
+### B) Move inside the directory named "sklearn". 
 
-### C) Move inside the folder named "sklearn". 
+Hint: use the command **cd** passing the required directory as argument
 
-Hint: use the command **cd**
+### C) Check that you are inside the right folder.
 
-```
-cd /usr/local/lib/python3.6/dist-packages/sklearn
-```{{execute}}
+Hint: compare the output of the command **pwd** with the required path
 
-### D) Check that you are inside the right folder.
 
-Hint: compare the output of the command **pwd** with the required folder
 
-```
-pwd
-```{{execute}}
+
 
