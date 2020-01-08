@@ -12,11 +12,13 @@
       },
       {
         "title": "Step 2: ls command",
-        "text": "step2.md"
+        "text": "step2.md",
+		"answer": "step2-answer.md"
       },
       {
-        "title": "Step 3: Create, copy and modify files",
-        "text": "step3.md"
+        "title": "Step 3: Operations on files and folder",
+        "text": "step3.md",
+		"answer": "step3-answer.md"
       },
       {
         "title": "Step 4",
@@ -36,7 +38,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-	"uimessage1": "\u001b[32Your Interactive Bash Terminal. A safe place to learn and execute commands.\u001b[m\r\n"
+	"uimessage1": "\u001b[32 Your Interactive Bash Terminal. A safe place to learn and execute commands.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "ubuntu1804"
