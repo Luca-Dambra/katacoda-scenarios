@@ -1,1 +1,1 @@
-Congratulations, you have completed the courses!
+Congratulations, you have completed Tech Talk 1: Introduction to Linux!

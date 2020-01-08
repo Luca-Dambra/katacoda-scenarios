@@ -1,23 +1,23 @@
-### A)
+#### A)
 
 ```
 cat svm/classes.py
 ```{{execute}}
 
 
-### B)
+#### B)
 
 ```
 cat semi_supervised/label_propagation.py metrics/setup.py
 ```{{execute}}
 
-### C)
+#### C)
 
 ```
 cat semi_supervised/label_propagation.py metrics/setup.py > useless.py
 ```{{execute}}
 
-### D)
+#### D)
 
 ```
 head useless.py
@@ -28,14 +28,14 @@ tail useless.py
 ```{{execute}}
 
 
-### E)
+#### E)
 
 ```
 cat externals/conftest.py >> useless.py
 ```{{execute}}
 
 
-### F)
+#### F)
 
 ```
 tail useless.py
