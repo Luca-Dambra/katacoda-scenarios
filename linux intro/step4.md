@@ -2,7 +2,7 @@
 
 Hint: Use the command **cat** passing as argument the path of the required file
 
-#### B) Show the concateneted contents of ./semi_supervised/label_propagation.py and ./metrics/setup.py
+#### B) Show the concatenated contents of ./semi_supervised/label_propagation.py and ./metrics/setup.py
 
 Hint: Use the command **cat** passing as arguments the required files
 
