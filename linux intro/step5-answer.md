@@ -22,7 +22,7 @@ ls -l useless.py
 #### D)
 
 ```
-chmod u=rwx,g=rwx,o=rwx tree/
+chmod -R u=rwx,g=rwx,o=rwx tree/
 ```{{execute}}
 
 
